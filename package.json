@@ -1,0 +1,17 @@
+{
+    "name": "tiendanube-image-api",
+    "version": "1.0.0",
+    "description": "API para migrar imágenes a Tiendanube",
+    "main": "index.js",
+    "scripts": {
+          "dev": "next dev",
+          "build": "next build",
+          "start": "next start"
+    },
+    "dependencies": {
+          "next": "13.5.0"
+    },
+    "engines": {
+          "node": ">=18.0.0"
+    }
+}
